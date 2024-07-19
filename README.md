@@ -24,7 +24,7 @@ I'm a passionate front-end developer with a love for crafting interactive and ca
 
 **Let's connect!**
 
-* **Telegram:** [t.me/techtrovedev]
+* **Telegram:** [[t.me/techtrovedev](t.me/techtrovedev)]
 * **LinkedIn:** [[LinkedIn Profile](https://www.linkedin.com/in/johnn-henry-vanegas-maldonado-a81b22318/)]
 
 **Check out my projects:**
